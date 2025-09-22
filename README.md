@@ -32,8 +32,6 @@
 
 ## 🎯 Overview
 
-![Repository Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Favinashyadav16%2FPyTorch&title=Repo+Views&style=for-the-badge)
-
 This repository is a **complete PyTorch learning destination**. It contains 14 detailed modules with hands-on Jupyter notebooks, practical implementations, and real-world projects covering the entire PyTorch ecosystem.
 
 From fundamental tensor operations to building complex neural networks for computer vision, natural language processing, and sequential data modeling, this repository provides a structured learning path with theory, code, and practical applications.

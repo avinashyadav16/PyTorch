@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/Modules-14-brightgreen?style=for-the-badge&logo=book&logoColor=white" alt="Modules"/>
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=check-circle&logoColor=white" alt="Status"/>
-<img title="Repository Views" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/avinashyadav16/PyTorch&title=Repo+Views&style=for-the-badge" alt="Repository Views"/>
 <img src="https://img.shields.io/badge/Contributions-Welcome-blueviolet?style=for-the-badge&logo=git&logoColor=white" alt="Contributions"/>
 </p>
 

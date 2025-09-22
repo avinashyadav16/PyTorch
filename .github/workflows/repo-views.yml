@@ -1,0 +1,15 @@
+name: Repo Views Counter
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Runs every hour
+  workflow_dispatch:       # Allow manual runs
+
+jobs:
+  count-views:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Repo Views
+        uses: jwenjian/gh-repo-view-counter@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
